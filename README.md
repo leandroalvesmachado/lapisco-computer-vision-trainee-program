@@ -1,0 +1,1 @@
+# lapisco-computer-vision-trainee-program
